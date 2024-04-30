@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PRS.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Nodo_seleccionado" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">PRS</Value>
+    </Setting>
+    <Setting Name="CadenaConn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=DESKTOP-RUJJ9TI;Initial Catalog=PRS;Integrated Security=True;TrustServerCertificate=True</Value>
+    </Setting>
+    <Setting Name="CanenaCocos" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
